@@ -1,0 +1,7 @@
+name: TC
+version: 1.0
+main: me.tyranzx.tc.StellarCore
+author: "Tyranzx"
+commands:
+    tell:
+        aliases: [msg]
